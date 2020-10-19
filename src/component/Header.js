@@ -5,7 +5,9 @@ function Header() {
         <div>
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
   <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
-  <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+  <Navbar.Toggle aria-controls="responsive-navbar-nav" >
+    <span className="fas fa-bars"></span>
+  </Navbar.Toggle>
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav>
       <Nav.Link href="#deets">More deets</Nav.Link>

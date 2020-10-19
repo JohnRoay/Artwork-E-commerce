@@ -10,9 +10,9 @@ function Header() {
   </Navbar.Toggle>
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav>
-      <Nav.Link href="#deets">More deets</Nav.Link>
+      <Nav.Link href="#deets">New Arts</Nav.Link>
       <Nav.Link eventKey={2} href="#memes">
-        Dank memes
+        Popular one
       </Nav.Link>
     </Nav>
   </Navbar.Collapse>

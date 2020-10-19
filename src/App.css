@@ -1,3 +1,9 @@
+
+.navbar{
+    background-color: aqua !important;
+    color:#000 !important;
+}
+
 .navbar-dark .navbar-toggler-icon{
     background-image: none !important;
 }

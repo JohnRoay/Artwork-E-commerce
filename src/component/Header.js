@@ -3,7 +3,7 @@ import {Navbar,Nav} from 'react-bootstrap'
 function Header() {
     return (
         <div>
-            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+            <Navbar collapseOnSelect expand="lg"  variant="dark">
   <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" >
     <span className="fas fa-bars"></span>
